@@ -1,8 +1,3 @@
-smooth scrolling ✅
-    attach loco scroll css ✅
-    attach locomotive scroll min js ✅
-    some code from loco github for js ✅
+for live demo 
 
-gsap
-    attach gsap
-scrolltrigger
+https://shubhambhandekar.github.io/project1/
